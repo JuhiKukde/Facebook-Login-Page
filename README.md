@@ -1,2 +1,2 @@
-# Facebook-Login-Page
-It use to the HTML 
+# Facebook Login Page
+A simple HTML login page inspired by social media platfrom
